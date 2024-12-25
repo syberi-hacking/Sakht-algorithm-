@@ -2,12 +2,12 @@
 رمزگذاری گوید یا باگ به زبان های قابل خوانده شدن
 apt update 
 apt upgrade
-Pkg install git
-Pkg install python
-Pkg install python2
-Pkg install python3
-Pip install base 64
-Pip install hashlib
+pkg install git
+pkg install python
+pkg install python2
+pkg install python3
+pip install base 64
+pip install hashlib
 git clone https://github.com/syberi-hacking/Sakht-algorithm-
-Cd Sakht-algorithm-
-Python script algoritm.py
+cd Sakht-algorithm-
+python 'script algoritm.py'
