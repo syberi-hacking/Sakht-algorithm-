@@ -42,7 +42,11 @@ def binary_encode(text):
 
 def main():
     """Main bot function to get user input and perform encoding."""
-    print("Welcome to the create algoritm bug aqa bullet")
+    print("Welcome to the create algoritm bug aqa bullet gray hat or whacker or bullet ryson or mmd emperator or mmd anasifer or bullet alfader .......")
+    print("0_0")
+    print("$--")
+    print("$$-")
+    print("$$$")
     print("Supported algorithms: sha1, base64, md5, rsa-base64, aes-256bit, binary")
     
     text = input("Enter the text you want to encode: ")
